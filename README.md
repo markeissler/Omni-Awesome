@@ -33,7 +33,7 @@ Omni Awesome can also be installed in OmniGraffle 5.4 (I tested 5.4.4) but it's 
 **NOTE:** Make sure you escape the spaces in the path. You can select the path from the Finder directly by opening a new Finder window, then pressing `Shift-Command-G`.
 
 ##Versioning
-**In general, the Omni Awesome major release number will be 3 behind the upstream release of Font Awesome upon which it is based.** Therefore, OA 1.1.0 is based on FA 4.1.0.
+**In general, the Omni Awesome major release number will be 3 behind the upstream release of Font Awesome upon which it is based.** Therefore, OA 1.1.0 is based on FA 4.1.0. The patch number will not be synchronized with the upstream FA project.
 
 Omni Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered with the following format:
 
