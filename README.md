@@ -1,5 +1,5 @@
 
-## Omni Awesome v4.1.0 (Font Awesome for OmniGraffle)
+## Omni Awesome v1.1.0 (Font Awesome for OmniGraffle)
 Built on top of the [Font Awesome Iconic Font and CSS framework from Dave Gandy](https://github.com/FortAwesome/Font-Awesome), Omni Awesome provides a series of OmniGraffle stencils that include vectorized versions of the complete set of FA icons.
 
 ### Introduction
